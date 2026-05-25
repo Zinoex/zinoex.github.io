@@ -23,7 +23,7 @@ cv:
         end_date: 2026
         highlights:
           - "Dissertation: Safety Verification of Discrete-time Stochastic Systems."
-          - "Supervisors: Prof. Luca Laurenti (DCSC, TU Delft) and Prof. Simeon C. Calvert (Transport & Planning, TU Delft)."
+          - "Supervisors: Dr. Luca Laurenti (DCSC, TU Delft), Dr. Simeon C. Calvert (Transport & Planning, TU Delft), and Dr. Manuel Mazo Espinosa (DCSC, TU Delft)."
           - "Awarded Dutch Institute for Systems and Control (DISC) certificate."
 
       - institution: Aalborg University
@@ -85,7 +85,7 @@ cv:
           - Prepared and hosted tutorial sessions for ~100 students
           - Updated course materials (code examples and exercises)
           - Designed and graded exam questions
-          - "Topics: linear time-invariant systems, state space methods, controllability, observability"
+          - "Topics: linear time-invariant systems, state space methods, controllability, observability, optimal control"
 
       - company: Delft University of Technology
         position: MSc/BSc Thesis Supervisor
