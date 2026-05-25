@@ -1,5 +1,6 @@
 ---
 layout: post
+title: New journal and conference paper acceptances
 date: 2026-05-20 12:00:00+0200
 inline: false
 related_posts: false

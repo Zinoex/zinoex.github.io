@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Jeroen Hagenus receives TU Delft Best MSc Thesis with AI Award
 date: 2025-12-15 14:30:00+0200
 inline: false
 related_posts: false
