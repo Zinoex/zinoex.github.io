@@ -111,19 +111,9 @@ ninja.data = [{
           description: "Utilities for generating and editing Ipe figures",
           section: "Software",handler: () => {
               window.location.href = "/software/8_ipeutils/";
-            },},{id: "teachings-data-science-fundamentals",
-          title: 'Data Science Fundamentals',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{id: "teachings-control-theory-sc42015",
           title: 'Control Theory (SC42015)',
-          description: "Linear Systems and Control Theory. This course covers the fundamentals of control theory including system modeling, state-space representations, controllability, observability, and feedback control design. Core topics include linear time-invariant systems, pole placement, and Lyapunov stability analysis.",
+          description: "Linear Systems and Control Theory. This course covers the fundamentals of control theory including system modeling, state-space representations, controllability, observability, and feedback control design. Core topics include linear time-invariant systems, pole placement, Lyapunov stability analysis, optimal control, and regulation.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/sc42015-control-theory/";
             },},{
