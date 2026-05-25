@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PhD defense on safety verification of discrete-time stochastic systems
-date: 2026-06-25 10:00:00+0200
+date: 2026-05-25 10:00:00+0200
 inline: false
 related_posts: false
 ---
