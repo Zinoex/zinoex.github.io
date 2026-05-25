@@ -129,31 +129,6 @@ cv:
         start_date: 2024
         end_date: present
 
-    Software:
-      - name: IntervalMDP.jl
-        url: https://github.com/zinoex/IntervalMDP.jl
-        summary: >
-          Hardware-accelerated robust value iteration for Interval Markov Decision Processes (IMDPs)
-          and factored IMDPs (fIMDPs). [Julia]
-
-      - name: IntervalMDPAbstractions.jl
-        url: https://github.com/zinoex/IntervalMDPAbstractions.jl
-        summary: >
-          Formal verification and control synthesis of stochastic hybrid systems via symbolic-numeric
-          abstractions to IMDPs and fIMDPs, value iteration, and controller refinement via simulation
-          relations. [Julia]
-
-      - name: bound_propagation
-        url: https://github.com/zinoex/bound_propagation
-        summary: >
-          Linear Bound Propagation techniques (CROWN) for linear relaxations of non-linear functions
-          including neural networks. [Python]
-
-      - name: ipe_utils
-        url: https:://github.com/zinoex/ipe_utils
-        summary: >
-          Utilities for generating and manipulating Ipe figures used in research workflows. [Python]
-
     Reviewing:
       - name: Conferences
         keywords: >

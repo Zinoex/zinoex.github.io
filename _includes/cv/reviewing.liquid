@@ -1,0 +1,24 @@
+{% comment %}
+  RenderCV reviewing entry renderer
+  Expected fields per entry: name, keywords, icon
+{% endcomment %}
+
+<ul class="card-text font-weight-light list-group list-group-flush">
+  {% for entry in entries %}
+    <li class="list-group-item">
+      <div class="d-flex align-items-start">
+        {% if entry.icon %}
+          <i class="{{ entry.icon }} mt-1 mr-2" aria-hidden="true"></i>
+        {% endif %}
+        <div>
+          {% if entry.name %}
+            <h6 class="title font-weight-bold mb-1">{{ entry.name }}</h6>
+          {% endif %}
+          {% if entry.keywords %}
+            <div>{{ entry.keywords | markdownify | remove: '<p>' | remove: '</p>' }}</div>
+          {% endif %}
+        </div>
+      </div>
+    </li>
+  {% endfor %}
+</ul>

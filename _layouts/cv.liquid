@@ -175,21 +175,73 @@ layout: default
               {% elsif section_title == 'Projects' or section_title == 'Open Source Projects' %}
                 {% assign entries = section_entries %}
                 {% include cv/projects.liquid %}
+              {% elsif section_title == 'Reviewing' %}
+                {% assign entries = section_entries %}
+                {% include cv/reviewing.liquid %}
               {% elsif section_title == 'References' %}
                 {% assign entries = section_entries %}
                 {% include cv/references.liquid %}
               {% else %}
                 <!-- Generic section -->
                 {% for entry in section_entries %}
-                  {% if entry.bullet %}
-                    <ul class="card-text font-weight-light list-group list-group-flush">
-                      <li class="list-group-item">{{ entry.bullet | markdownify | remove: '<p>' | remove: '</p>' }}</li>
-                    </ul>
-                  {% elsif entry.label %}
-                    <div class="card-text font-weight-light">
-                      <strong>{{ entry.label }}:</strong> {{ entry.details }}
-                    </div>
-                  {% endif %}
+                  <ul class="card-text font-weight-light list-group list-group-flush">
+                    <li class="list-group-item">
+                      {% if entry.title %}
+                        <h6 class="title font-weight-bold mb-1">{{ entry.title }}</h6>
+                      {% elsif entry.name %}
+                        <h6 class="title font-weight-bold mb-1">{{ entry.name }}</h6>
+                      {% elsif entry.label %}
+                        <h6 class="title font-weight-bold mb-1">{{ entry.label }}</h6>
+                      {% elsif entry.bullet %}
+                        <div>{{ entry.bullet | markdownify | remove: '<p>' | remove: '</p>' }}</div>
+                      {% endif %}
+
+                      {% if entry.position or entry.company %}
+                        <div>
+                          {% if entry.position %}<strong>{{ entry.position }}</strong>{% endif %}
+                          {% if entry.position and entry.company %} - {% endif %}
+                          {% if entry.company %}{{ entry.company }}{% endif %}
+                        </div>
+                      {% endif %}
+
+                      {% if entry.date or entry.start_date or entry.end_date %}
+                        <div class="text-muted">
+                          {% if entry.date %}
+                            {{ entry.date }}
+                          {% else %}
+                            {% if entry.start_date %}{{ entry.start_date }}{% endif %}
+                            {% if entry.end_date %} - {{ entry.end_date }}{% endif %}
+                          {% endif %}
+                        </div>
+                      {% endif %}
+
+                      {% if entry.details %}
+                        <div>{{ entry.details | markdownify | remove: '<p>' | remove: '</p>' }}</div>
+                      {% endif %}
+
+                      {% if entry.awarder %}
+                        <div>{{ entry.awarder }}</div>
+                      {% endif %}
+
+                      {% if entry.summary %}
+                        <div>{{ entry.summary | markdownify | remove: '<p>' | remove: '</p>' }}</div>
+                      {% endif %}
+
+                      {% if entry.keywords %}
+                        <div>{{ entry.keywords | markdownify | remove: '<p>' | remove: '</p>' }}</div>
+                      {% endif %}
+
+                      {% if entry.highlights %}
+                        <ul class="items mt-2 mb-0">
+                          {% for item in entry.highlights %}
+                            <li>
+                              <span class="item">{{ item | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+                            </li>
+                          {% endfor %}
+                        </ul>
+                      {% endif %}
+                    </li>
+                  </ul>
                 {% endfor %}
               {% endif %}
             </div>
