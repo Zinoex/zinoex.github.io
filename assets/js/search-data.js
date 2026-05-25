@@ -16,23 +16,16 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+        },{id: "nav-software",
+          title: "software",
+          description: "Software packages and tools I have developed.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
+            window.location.href = "/software/";
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -44,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
         },{id: "nav-talks",
           title: "talks",
           description: "Conference and invited talks.",
@@ -58,21 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/talks/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "nav-service",
+        },{id: "nav-service",
           title: "service",
           description: "Reviewing and professional memberships.",
           section: "Navigation",
@@ -99,46 +71,46 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-06-25-phd-defense/";
-            },},{id: "projects-intervalmdp-jl",
+            },},{id: "software-intervalmdp-jl",
           title: 'IntervalMDP.jl',
           description: "Value iteration for IMCs, IMDPs, odIMDPs, and fIMDPs",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_intervalMDP/";
-            },},{id: "projects-intervalmdpabstractions-jl",
+          section: "Software",handler: () => {
+              window.location.href = "/software/1_intervalMDP/";
+            },},{id: "software-intervalmdpabstractions-jl",
           title: 'IntervalMDPAbstractions.jl',
           description: "Abstraction-based verification and synthesis via IMDP targets",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_intervalMDP_abstractions/";
-            },},{id: "projects-bound-propagation",
+          section: "Software",handler: () => {
+              window.location.href = "/software/2_intervalMDP_abstractions/";
+            },},{id: "software-bound-propagation",
           title: 'bound_propagation',
           description: "Linear and interval bound propagation in PyTorch",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_bound_propagation/";
-            },},{id: "projects-scenariotheory-jl",
+          section: "Software",handler: () => {
+              window.location.href = "/software/3_bound_propagation/";
+            },},{id: "software-scenariotheory-jl",
           title: 'ScenarioTheory.jl',
           description: "Violation probability bounds from scenario theory",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_scenariotheory/";
-            },},{id: "projects-stochasticbarrier-jl",
+          section: "Software",handler: () => {
+              window.location.href = "/software/4_scenariotheory/";
+            },},{id: "software-stochasticbarrier-jl",
           title: 'StochasticBarrier.jl',
           description: "Toolbox for stochastic barrier functions in noisy systems",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_stochastic_barrier/";
-            },},{id: "projects-archcompstochasticmodels-jl",
+          section: "Software",handler: () => {
+              window.location.href = "/software/5_stochastic_barrier/";
+            },},{id: "software-archcompstochasticmodels-jl",
           title: 'ArchCompStochasticModels.jl',
           description: "Stochastic benchmark model package for ARCH-COMP workflows",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_archcomp_stochastic/";
-            },},{id: "projects-jordanform-jl",
+          section: "Software",handler: () => {
+              window.location.href = "/software/6_archcomp_stochastic/";
+            },},{id: "software-jordanform-jl",
           title: 'JordanForm.jl',
           description: "Educational Jordan form computations for exact arithmetic",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_jordanform/";
-            },},{id: "projects-ipeutils",
+          section: "Software",handler: () => {
+              window.location.href = "/software/7_jordanform/";
+            },},{id: "software-ipeutils",
           title: 'ipeutils',
           description: "Utilities for generating and editing Ipe figures",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_ipeutils/";
+          section: "Software",handler: () => {
+              window.location.href = "/software/8_ipeutils/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
