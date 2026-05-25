@@ -5,8 +5,7 @@ description: Stochastic benchmark model package for ARCH-COMP workflows
 img: 
 importance: 6
 category: software
-github: zinoex/ArchCompStochasticModels.jl
-collaborators: Adrien Banse
+github: https://github.com/zinoex/ArchCompStochasticModels.jl
 ---
 
 **ArchCompStochasticModels.jl** is a Julia package for benchmark models of the ARCH-COMP stochastic models track.

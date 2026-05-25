@@ -5,7 +5,7 @@ description: Utilities for generating and editing Ipe figures
 img: 
 importance: 8
 category: software
-github: Zinoex/ipe_utils
+github: https://github.com/Zinoex/ipe_utils
 ---
 
 **ipeutils** is a collection of utilities for working with [Ipe](https://ipe.otfried.org/) figures, including styles, preambles, and custom ipelets.

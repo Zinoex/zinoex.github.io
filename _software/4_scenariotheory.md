@@ -5,7 +5,7 @@ description: Violation probability bounds from scenario theory
 img: 
 importance: 4
 category: software
-github: zinoex/ScenarioTheory.jl
+github: https://github.com/zinoex/ScenarioTheory.jl
 ---
 
 **ScenarioTheory.jl** is a Julia library for computing bounds from Scenario Theory (Campi & Garatti). Given the number of samples, the desired confidence, and the number of decision variables/support constraints/compressed size, it computes the violation probability — i.e. the probability of a change of compression.

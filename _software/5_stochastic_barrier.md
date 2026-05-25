@@ -5,7 +5,7 @@ description: Toolbox for stochastic barrier functions in noisy systems
 img: 
 importance: 5
 category: software
-github: aria-systems-group/StochasticBarrier.jl
+github: https://github.com/aria-systems-group/StochasticBarrier.jl
 collaborators: Rayan Mazouz
 ---
 

@@ -5,7 +5,7 @@ description: Value iteration for IMCs, IMDPs, odIMDPs, and fIMDPs
 img: 
 importance: 1
 category: software
-github: zinoex/IntervalMDP.jl
+github: https://github.com/zinoex/IntervalMDP.jl
 ---
 
 **IntervalMDP.jl** is a Julia package for modeling and solving verification and control synthesis problems for subclasses of robust MDPs, including IMCs, IMDPs, odIMDPs, and fIMDPs.

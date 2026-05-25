@@ -5,7 +5,7 @@ description: Abstraction-based verification and synthesis via IMDP targets
 img: 
 importance: 2
 category: software
-github: zinoex/IntervalMDPAbstractions.jl
+github: https://github.com/zinoex/IntervalMDPAbstractions.jl
 ---
 
 **IntervalMDPAbstractions.jl** provides abstraction-based methods for verifying stochastic systems and synthesizing correct-by-construction controllers via IMDP-inspired target models.

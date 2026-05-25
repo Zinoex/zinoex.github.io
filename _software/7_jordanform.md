@@ -5,7 +5,7 @@ description: Educational Jordan form computations for exact arithmetic
 img: 
 importance: 7
 category: software
-github: zinoex/JordanForm.jl
+github: https://github.com/zinoex/JordanForm.jl
 collaborators: Adrien Banse
 ---
 

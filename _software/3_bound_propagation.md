@@ -5,7 +5,7 @@ description: Linear and interval bound propagation in PyTorch
 img: 
 importance: 3
 category: software
-github: zinoex/bound_propagation
+github: https://github.com/zinoex/bound_propagation
 ---
 
 **bound_propagation** is a PyTorch library for linear and interval bound propagation with an extensible module-based API.
