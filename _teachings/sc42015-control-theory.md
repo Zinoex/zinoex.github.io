@@ -2,7 +2,7 @@
 layout: course
 title: Control Theory (SC42015)
 description: >
-  Linear Systems and Control Theory. This course covers the fundamentals of control theory including system modeling, state-space representations, controllability, observability, and feedback control design. Core topics include linear time-invariant systems, pole placement, and Lyapunov stability analysis.
+  Linear Systems and Control Theory. This course covers the fundamentals of control theory including system modeling, state-space representations, controllability, observability, and feedback control design. Core topics include linear time-invariant systems, pole placement, Lyapunov stability analysis, optimal control, and regulation.
 instructor: Teaching Assistant
 year: 2024
 term: Semester 1
@@ -12,7 +12,7 @@ course_id: sc42015
 
 ## Course Overview
 
-**SC42015: Control Theory** is a foundational course in the Department of Mechanical Engineering at TU Delft, covering essential concepts in linear control systems.
+**SC42015: Control Theory** is a foundational course in MSc Systems and Control at TU Delft, covering essential concepts in linear control systems.
 
 ## Teaching Contribution (2021-2024)
 
@@ -27,13 +27,13 @@ During four years as Teaching Assistant, I was responsible for:
 
 - Linear time-invariant (LTI) systems
 - State-space methods and representations
-- Controllability and observability analysis
-- Pole placement and feedback control design
-- Stability analysis (Lyapunov methods)
-- Digital control systems
+- Controllability and observability analysis, separation principle
+- Stability analysis (Lyapunov methods, direct and indirect)
+- Pole placement and feedback control design, LQ optimal control
+- Tracking and disturbance rejection
+
 
 ## Achievements
 
-- **2024 Delft Center for Systems and Control Outstanding TA Award** for exemplary teaching and student support
-- Consistently high student evaluations
-- Development of interactive tutorials improving student engagement
+- **2024 Delft Center for Systems and Control Outstanding TA Award**
+- Development of interactive course material
