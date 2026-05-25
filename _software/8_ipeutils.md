@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ipeutils
+title: ipe_utils
 description: Utilities for generating and editing Ipe figures
 img: 
 importance: 8

@@ -8,17 +8,13 @@ nav_order: 6
 calendar: false
 ---
 
-## Teaching and Supervision
-
-I have been involved in teaching and mentoring at TU Delft since 2021, with a focus on control theory and AI applications.
-
-### Course Instruction
+## Course Instruction
 
 {% include courses.liquid %}
 
-### Thesis Supervision
+## Thesis Supervision
 
-#### Master's Theses
+### Master's Theses
 
 - **Jeroen Hagenus** (2024) — [*Realistic Adversarial Attacks for Robustness Evaluation of Trajectory Prediction Models*](https://resolver.tudelft.nl/uuid:57351550-62a3-4d4a-b908-03da773f4775)
   - **Award:** Best MSc Thesis with AI, TU Delft, 2025
@@ -33,7 +29,7 @@ I have been involved in teaching and mentoring at TU Delft since 2021, with a fo
   - Focus: Scalable verification techniques for IMDPs
   - Co-supervisor: M. Mazo
 
-#### Bachelor Groups
+### Bachelor Groups
 
 - **AI Minor Final Project** — Supervised 2 groups (2023, 2024)
   - Projects covered applications of formal methods and machine learning
