@@ -106,8 +106,8 @@ ninja.data = [{
           description: "Educational Jordan form computations for exact arithmetic",
           section: "Software",handler: () => {
               window.location.href = "/software/7_jordanform/";
-            },},{id: "software-ipeutils",
-          title: 'ipeutils',
+            },},{id: "software-ipe-utils",
+          title: 'ipe_utils',
           description: "Utilities for generating and editing Ipe figures",
           section: "Software",handler: () => {
               window.location.href = "/software/8_ipeutils/";
@@ -115,7 +115,22 @@ ninja.data = [{
           title: 'Control Theory (SC42015)',
           description: "Linear Systems and Control Theory. This course covers the fundamentals of control theory including system modeling, state-space representations, controllability, observability, and feedback control design. Core topics include linear time-invariant systems, pole placement, Lyapunov stability analysis, optimal control, and regulation.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/sc42015-control-theory/";
+              window.location.href = "/teachings/sc42015-control-theory_2021/";
+            },},{id: "teachings-control-theory-sc42015",
+          title: 'Control Theory (SC42015)',
+          description: "Linear Systems and Control Theory. This course covers the fundamentals of control theory including system modeling, state-space representations, controllability, observability, and feedback control design. Core topics include linear time-invariant systems, pole placement, Lyapunov stability analysis, optimal control, and regulation.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/sc42015-control-theory_2022/";
+            },},{id: "teachings-control-theory-sc42015",
+          title: 'Control Theory (SC42015)',
+          description: "Linear Systems and Control Theory. This course covers the fundamentals of control theory including system modeling, state-space representations, controllability, observability, and feedback control design. Core topics include linear time-invariant systems, pole placement, Lyapunov stability analysis, optimal control, and regulation.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/sc42015-control-theory_2023/";
+            },},{id: "teachings-control-theory-sc42015",
+          title: 'Control Theory (SC42015)',
+          description: "Linear Systems and Control Theory. This course covers the fundamentals of control theory including system modeling, state-space representations, controllability, observability, and feedback control design. Core topics include linear time-invariant systems, pole placement, Lyapunov stability analysis, optimal control, and regulation.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/sc42015-control-theory_2024/";
             },},{
         id: 'social-cv',
         title: 'CV',
