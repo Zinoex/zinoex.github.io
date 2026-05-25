@@ -1,6 +1,6 @@
 {% comment %}
   RenderCV reviewing entry renderer
-  Expected fields per entry: name, keywords, icon
+  Expected fields per entry: name, venues, icon
 {% endcomment %}
 
 <ul class="card-text font-weight-light list-group list-group-flush">
@@ -14,8 +14,15 @@
           {% if entry.name %}
             <h6 class="title font-weight-bold mb-1">{{ entry.name }}</h6>
           {% endif %}
-          {% if entry.keywords %}
-            <div>{{ entry.keywords | markdownify | remove: '<p>' | remove: '</p>' }}</div>
+
+          {% if entry.venues %}
+            <ul class="items mb-0">
+              {% for venue in entry.venues %}
+                <li>
+                  <span class="item">{{ venue | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+                </li>
+              {% endfor %}
+            </ul>
           {% endif %}
         </div>
       </div>
