@@ -49,18 +49,18 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-jeroen-award",
-          title: 'Jeroen Award',
+            },},{id: "news-jeroen-hagenus-receives-tu-delft-best-msc-thesis-with-ai-award",
+          title: 'Jeroen Hagenus receives TU Delft Best MSc Thesis with AI Award',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-12-15-jeroen-award/";
-            },},{id: "news-recent-acceptances",
-          title: 'Recent Acceptances',
+            },},{id: "news-new-journal-and-conference-paper-acceptances",
+          title: 'New journal and conference paper acceptances',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-05-20-recent-acceptances/";
-            },},{id: "news-phd-defense",
-          title: 'Phd Defense',
+            },},{id: "news-phd-defense-on-safety-verification-of-discrete-time-stochastic-systems",
+          title: 'PhD defense on safety verification of discrete-time stochastic systems',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-06-25-phd-defense/";
