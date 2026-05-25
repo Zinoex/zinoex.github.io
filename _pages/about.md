@@ -6,7 +6,7 @@ subtitle: PhD Candidate @ <a href="https://www.tudelft.nl/3me/over/afdelingen/de
 
 profile:
   align: right
-  image: ""
+  image: SNF-1903_Frederik-k_centered.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Delft Center for Systems and Control</p>
