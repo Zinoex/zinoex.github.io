@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Researcher @ <a href="https://www.tudelft.nl/3me/over/afdelingen/delft-center-for-systems-and-control">Delft Center for Systems and Control</a>, TU Delft
+subtitle: PhD Candidate @ <a href="https://www.tudelft.nl/3me/over/afdelingen/delft-center-for-systems-and-control">Delft Center for Systems and Control</a>, TU Delft
 
 profile:
   align: right
@@ -26,5 +26,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD researcher at the [Delft Center for Systems and Control (DCSC)](https://www.tudelft.nl/3me/over/afdelingen/delft-center-for-systems-and-control), TU Delft. My research lies at the intersection of **formal methods**, **control theory**, and **cyber-physical systems (CPS)**, with a focus on providing rigorous correctness and safety guarantees for autonomous and safety-critical systems.
+I am a PhD Candidate at the [Delft Center for Systems and Control (DCSC)](https://www.tudelft.nl/3me/over/afdelingen/delft-center-for-systems-and-control), TU Delft, under the supervision of [Dr. Luca Laurenti](https://www.tudelft.nl/en/staff/l.laurenti/?cHash=d00d764e03ebc8279dc6679ff1d65e18) and [Dr. Simeon Calvert](https://www.tudelft.nl/en/ceg/about-faculty/departments/transport-planning/staff/personal-pages/calvert-sc). My research lies at the intersection of **formal methods**, **learning-enabled systems**, and **cyber-physical systems (CPS)**, with a focus on providing rigorous correctness and safety guarantees for autonomous and safety-critical systems.
 
