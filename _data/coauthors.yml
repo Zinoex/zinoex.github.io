@@ -1,34 +1,39 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"abate":
+  - firstname: ["Alessandro"]
+    url: https://www.cs.ox.ac.uk/people/alessandro.abate/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"badings":
+  - firstname: ["Thom"]
+    url: https://www.thombadings.nl/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"calvert":
+  - firstname: ["Simeon C.", "Simeon"]
+    url: https://www.tudelft.nl/en/staff/s.c.calvert/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"fabiano":
+  - firstname: ["Francesco"]
+    url: https://francescofabiano.github.io/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"haesaert":
+  - firstname: ["Sofie"]
+    url: https://www.sofiehaesaert.com/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"knoedler":
+  - firstname: ["Luzia"]
+    url: https://www.kth.se/profile/luzia
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"laurenti":
+  - firstname: ["Luca"]
+    url: https://www.tudelft.nl/en/staff/l.laurenti/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"romao":
+  - firstname: ["Licio"]
+    url: https://licioromao.com/
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"vertovec":
+  - firstname: ["Nikolaus"]
+    url: https://www.vertovec.info/
+
+"zgonnikov":
+  - firstname: ["Arkady"]
+    url: https://www.tudelft.nl/en/staff/a.zgonnikov/
