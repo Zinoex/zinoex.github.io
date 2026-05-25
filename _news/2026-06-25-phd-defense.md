@@ -14,8 +14,10 @@ Defending my dissertation "*Safety Verification of Discrete-time Stochastic Syst
 - Dr. Luca Laurenti (co-promotor, DCSC, TU Delft)
 - Dr. Simeon C. Calvert (promotor, Transport & Planning, TU Delft)
 - Dr. Manuel Mazo Espinosa (promotor, DCSC, TU Delft)
+- Prof. Matthijs Spaan (Computer Science, TU Delft)
 - Prof. Raphael Jungers (Université catholique de Louvain, Belgium)
 - Prof. Nils Jansen (Ruhr-University Bochum, Germany)
 - Dr. Nicola Paoletti (King's College London, United Kingdom)
+- Prof. Jan-Willem van Wingerden (DCSC, TU Delft, reserve)
 
 A workshop with the international committee members will follow on June 25 at TU Delft.
