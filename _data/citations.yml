@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-06-15'
 papers:
   2tTAGlcAAAAJ:2osOgNQ5qMEC:
     citations: 76
@@ -32,7 +32,7 @@ papers:
   2tTAGlcAAAAJ:Tyk-4Ss8FVUC:
     citations: 12
     title: Piecewise stochastic barrier functions
-    year: '2024'
+    year: '2026'
   2tTAGlcAAAAJ:ULOm3_A8WrAC:
     citations: 0
     title: Safety verification of discrete-time stochastic systems
