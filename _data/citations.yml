@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-06-15'
+  last_updated: '2026-07-03'
 papers:
   2tTAGlcAAAAJ:2osOgNQ5qMEC:
-    citations: 76
+    citations: 77
     title: Safety certification for stochastic systems via neural barrier functions
     year: '2022'
   2tTAGlcAAAAJ:3fE2CSJIrl8C:
@@ -14,7 +14,7 @@ papers:
     title: 'Hyperverlet: A symplectic hypersolver for Hamiltonian systems'
     year: '2022'
   2tTAGlcAAAAJ:IjCSPb-OGe4C:
-    citations: 21
+    citations: 22
     title: 'IntervalMDP. jl: Accelerated value iteration for interval markov decision processes'
     year: '2024'
   2tTAGlcAAAAJ:KlAtU1dfN6UC:
@@ -26,7 +26,7 @@ papers:
     title: Realistic Adversarial Attacks for Robustness Evaluation of Trajectory Prediction Models via Future State Perturbation
     year: '2026'
   2tTAGlcAAAAJ:Se3iqnhoufwC:
-    citations: 18
+    citations: 20
     title: 'ARCH-COMP25 Category Report: Stochastic Models'
     year: '2025'
   2tTAGlcAAAAJ:Tyk-4Ss8FVUC:
@@ -42,11 +42,11 @@ papers:
     title: Simultaneous synthesis and verification of neural control barrier functions through branch-and-bound verification-in-the-loop training
     year: '2024'
   2tTAGlcAAAAJ:W7OEmFMy1HYC:
-    citations: 16
+    citations: 19
     title: 'Robustness in trajectory prediction for autonomous vehicles: a survey'
     year: '2024'
   2tTAGlcAAAAJ:WF5omc3nYNoC:
-    citations: 9
+    citations: 10
     title: Scalable control synthesis for stochastic systems via structural IMDP abstractions
     year: '2025'
   2tTAGlcAAAAJ:Y0pCki6q_DkC:
