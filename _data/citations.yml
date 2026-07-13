@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-03'
+  last_updated: '2026-07-13'
 papers:
   2tTAGlcAAAAJ:2osOgNQ5qMEC:
     citations: 77
@@ -22,7 +22,7 @@ papers:
     title: 'Stochasticbarrier. jl: A toolbox for stochastic barrier function synthesis'
     year: '2026'
   2tTAGlcAAAAJ:LkGwnXOMwfcC:
-    citations: 3
+    citations: 4
     title: Realistic Adversarial Attacks for Robustness Evaluation of Trajectory Prediction Models via Future State Perturbation
     year: '2026'
   2tTAGlcAAAAJ:Se3iqnhoufwC:
@@ -30,7 +30,7 @@ papers:
     title: 'ARCH-COMP25 Category Report: Stochastic Models'
     year: '2025'
   2tTAGlcAAAAJ:Tyk-4Ss8FVUC:
-    citations: 12
+    citations: 13
     title: Piecewise stochastic barrier functions
     year: '2026'
   2tTAGlcAAAAJ:ULOm3_A8WrAC:
@@ -50,7 +50,7 @@ papers:
     title: Scalable control synthesis for stochastic systems via structural IMDP abstractions
     year: '2025'
   2tTAGlcAAAAJ:Y0pCki6q_DkC:
-    citations: 11
+    citations: 12
     title: Data-driven permissible safe control with barrier certificates
     year: '2024'
   2tTAGlcAAAAJ:Zph67rFs4hoC:
