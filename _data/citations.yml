@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-13'
+  last_updated: '2026-07-20'
 papers:
   2tTAGlcAAAAJ:2osOgNQ5qMEC:
     citations: 77
@@ -42,7 +42,7 @@ papers:
     title: Simultaneous synthesis and verification of neural control barrier functions through branch-and-bound verification-in-the-loop training
     year: '2024'
   2tTAGlcAAAAJ:W7OEmFMy1HYC:
-    citations: 19
+    citations: 18
     title: 'Robustness in trajectory prediction for autonomous vehicles: a survey'
     year: '2024'
   2tTAGlcAAAAJ:WF5omc3nYNoC:
