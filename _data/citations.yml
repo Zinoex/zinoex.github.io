@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-20'
+  last_updated: '2026-07-22'
 papers:
   2tTAGlcAAAAJ:2osOgNQ5qMEC:
-    citations: 77
+    citations: 78
     title: Safety certification for stochastic systems via neural barrier functions
     year: '2022'
   2tTAGlcAAAAJ:3fE2CSJIrl8C:
@@ -76,7 +76,7 @@ papers:
   2tTAGlcAAAAJ:roLk4NBRz8UC:
     citations: 2
     title: Certified neural approximations of nonlinear dynamics
-    year: '2025'
+    year: '2026'
   2tTAGlcAAAAJ:u-x6o8ySG0sC:
     citations: 0
     title: A Flow-Efficient and Legal-by-Construction Real-Time Traffic Signal Control Platform
