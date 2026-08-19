@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-08-19'
 papers:
   2tTAGlcAAAAJ:2osOgNQ5qMEC:
     citations: 78
@@ -7,22 +7,22 @@ papers:
     year: '2022'
   2tTAGlcAAAAJ:3fE2CSJIrl8C:
     citations: 2
-    title: Scalable Verification of Neural Control Barrier Functions Using Linear Bound Propagation
+    title: Scalable verification of neural control barrier functions using linear bound propagation
     year: '2025'
   2tTAGlcAAAAJ:9yKSN-GCB0IC:
     citations: 8
     title: 'Hyperverlet: A symplectic hypersolver for Hamiltonian systems'
     year: '2022'
   2tTAGlcAAAAJ:IjCSPb-OGe4C:
-    citations: 22
+    citations: 23
     title: 'IntervalMDP. jl: Accelerated value iteration for interval markov decision processes'
     year: '2024'
   2tTAGlcAAAAJ:KlAtU1dfN6UC:
-    citations: 2
+    citations: 3
     title: 'Stochasticbarrier. jl: A toolbox for stochastic barrier function synthesis'
     year: '2026'
   2tTAGlcAAAAJ:LkGwnXOMwfcC:
-    citations: 4
+    citations: 5
     title: Realistic Adversarial Attacks for Robustness Evaluation of Trajectory Prediction Models via Future State Perturbation
     year: '2026'
   2tTAGlcAAAAJ:Se3iqnhoufwC:
@@ -30,7 +30,7 @@ papers:
     title: 'ARCH-COMP25 Category Report: Stochastic Models'
     year: '2025'
   2tTAGlcAAAAJ:Tyk-4Ss8FVUC:
-    citations: 13
+    citations: 15
     title: Piecewise stochastic barrier functions
     year: '2026'
   2tTAGlcAAAAJ:ULOm3_A8WrAC:
@@ -38,11 +38,11 @@ papers:
     title: Safety verification of discrete-time stochastic systems
     year: '2026'
   2tTAGlcAAAAJ:UeHWp8X0CEIC:
-    citations: 31
+    citations: 32
     title: Simultaneous synthesis and verification of neural control barrier functions through branch-and-bound verification-in-the-loop training
     year: '2024'
   2tTAGlcAAAAJ:W7OEmFMy1HYC:
-    citations: 18
+    citations: 19
     title: 'Robustness in trajectory prediction for autonomous vehicles: a survey'
     year: '2024'
   2tTAGlcAAAAJ:WF5omc3nYNoC:
@@ -50,27 +50,31 @@ papers:
     title: Scalable control synthesis for stochastic systems via structural IMDP abstractions
     year: '2025'
   2tTAGlcAAAAJ:Y0pCki6q_DkC:
-    citations: 12
+    citations: 13
     title: Data-driven permissible safe control with barrier certificates
     year: '2024'
   2tTAGlcAAAAJ:Zph67rFs4hoC:
-    citations: 0
+    citations: 1
     title: Evaluating randomized smoothing as a defense against adversarial attacks in trajectory prediction
     year: '2026'
   2tTAGlcAAAAJ:_FxGoFyzp5QC:
     citations: 0
     title: 'Ensuring Safety Through Stochastic Control Barrier Functions: A Flexible Approach Based On Linear Bound Propagation'
     year: '2025'
+  2tTAGlcAAAAJ:_kc_bZDykSQC:
+    citations: 0
+    title: Clustered Randomized Smoothing for Stochastic Prediction Functions
+    year: '2026'
   2tTAGlcAAAAJ:eQOLeE2rZwMC:
     citations: 9
     title: A data-driven approach for safety quantification of non-linear stochastic systems with unknown additive noise distribution
-    year: '2024'
+    year: '2026'
   2tTAGlcAAAAJ:kNdYIx-mwKoC:
     citations: 0
     title: Stochastic Models
     year: '2025'
   2tTAGlcAAAAJ:qjMakFHDy7sC:
-    citations: 12
+    citations: 11
     title: Inner approximations of stochastic programs for data-driven stochastic barrier function design
     year: '2023'
   2tTAGlcAAAAJ:roLk4NBRz8UC:
