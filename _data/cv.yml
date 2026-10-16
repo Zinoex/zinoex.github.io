@@ -1,11 +1,11 @@
 cv:
   name: Frederik Baymler Mathiesen
-  label: PhD Candidate in Systems and Control
+  label: Research Associate
   email: frederik@baymler.com
-  location: Delft, the Netherlands
+  location: Oxford, UK
   image: SNF-1903_Frederik-k_centered.jpg
   summary: >
-    PhD researcher at the Delft Center for Systems and Control, TU Delft.
+    Research Associate at Department of Computer Science, University of Oxford. Funded by Erlangen AI Hub.
     Research interests: formal methods for dynamical systems, AI safety and verification, scientific machine learning.
 
   social_networks:
@@ -24,6 +24,7 @@ cv:
         highlights:
           - "Dissertation: Safety Verification of Discrete-time Stochastic Systems."
           - "Supervisors: Dr. Luca Laurenti (DCSC, TU Delft), Dr. Simeon C. Calvert (Transport & Planning, TU Delft), and Dr. Manuel Mazo Espinosa (DCSC, TU Delft)."
+          - "Graduated with Cum Laude."
           - "Awarded Dutch Institute for Systems and Control (DISC) certificate."
 
       - institution: Aalborg University
@@ -56,11 +57,20 @@ cv:
           - "Physics, Mathematics, English, Electrical Engineering, and Danish."
 
     Experience:
+      - company: Department of Computer Science
+        position: Research Associate
+        location: Oxford, UK
+        start_date: 2026
+        end_date: present
+        highlights:
+          - Verification of stochastic systems
+          - Barrier functions and finite-state abstractions
+
       - company: Delft Center for Systems and Control, TU Delft
         position: Doctoral Researcher
         location: Delft, the Netherlands
         start_date: 2021
-        end_date: present
+        end_date: 2026
         highlights:
           - Safety verification of stochastic systems
           - Barrier functions and finite-state abstractions

@@ -7,7 +7,7 @@ nav: true
 nav_order: 7
 ---
 
-This page lists selected talks. I can add slides, recordings, and abstracts over time.
+This page lists selected talks. I may add slides, recordings, and abstracts over time.
 
 ## 2025
 
