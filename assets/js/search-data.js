@@ -64,6 +64,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-06-25-phd-defense/";
+            },},{id: "news-paper-accepted-at-neurips",
+          title: 'Paper accepted at NeurIPS',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-09-24-neurips-acceptance/";
             },},{id: "software-intervalmdp-jl",
           title: 'IntervalMDP.jl',
           description: "Value iteration for IMCs, IMDPs, odIMDPs, and fIMDPs",
